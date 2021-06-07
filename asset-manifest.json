@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/KiteWire/static/css/main.08f0b59e.chunk.css",
+    "main.js": "/KiteWire/static/js/main.27018780.chunk.js",
+    "main.js.map": "/KiteWire/static/js/main.27018780.chunk.js.map",
+    "runtime-main.js": "/KiteWire/static/js/runtime-main.cafd51ad.js",
+    "runtime-main.js.map": "/KiteWire/static/js/runtime-main.cafd51ad.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/KiteWire/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.8256dc28.chunk.js": "/KiteWire/static/js/2.8256dc28.chunk.js",
+    "static/js/2.8256dc28.chunk.js.map": "/KiteWire/static/js/2.8256dc28.chunk.js.map",
+    "index.html": "/KiteWire/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/KiteWire/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.08f0b59e.chunk.css.map": "/KiteWire/static/css/main.08f0b59e.chunk.css.map",
+    "static/js/2.8256dc28.chunk.js.LICENSE.txt": "/KiteWire/static/js/2.8256dc28.chunk.js.LICENSE.txt",
+    "static/media/Max_3d_2.c8ffe747.png": "/KiteWire/static/media/Max_3d_2.c8ffe747.png",
+    "static/media/dubai2.d1aeb2a4.png": "/KiteWire/static/media/dubai2.d1aeb2a4.png",
+    "static/media/heroimage.1af097d1.jpg": "/KiteWire/static/media/heroimage.1af097d1.jpg",
+    "static/media/pc_gobed2_car_glamourshot.0003db26.webp": "/KiteWire/static/media/pc_gobed2_car_glamourshot.0003db26.webp",
+    "static/media/teddy-bear-removebg-preview.f6313666.png": "/KiteWire/static/media/teddy-bear-removebg-preview.f6313666.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cafd51ad.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.8256dc28.chunk.js",
+    "static/css/main.08f0b59e.chunk.css",
+    "static/js/main.27018780.chunk.js"
+  ]
+}
